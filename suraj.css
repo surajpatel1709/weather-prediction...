@@ -1,0 +1,56 @@
+#div1{
+    background-color:rgb(118, 118, 244);
+    height: 200px;
+    font-size: 30px;
+    margin-left: ;
+    color:white;
+    margin: 0%;
+}
+#suraj{
+    font-size: 30px;
+    
+    margin-top: 0%;
+    height: 300px;
+}
+#patel{
+    background-color:navy;
+    color: white;
+    margin: 0%;
+
+}
+header {
+    background-color:rgba(35, 35, 223, 0.756);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-size: 30px;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color:rgba(35, 35, 223, 0.756);
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-size: 30px;
+}
+
+div{
+    font-size: 30px;
+}
